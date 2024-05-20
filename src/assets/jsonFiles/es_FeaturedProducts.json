@@ -1,6 +1,0 @@
-[    
-    {"id": 102, "nombre": "Chaqueta Vaquera", "descripcion": "Chaqueta estilo vaquero", "precio": 90.00, "imageUrl": "assets/products/cv01.webp", "idCategoria": 1},
-    {"id": 105, "nombre": "Pantalones Chinos", "descripcion": "Pantalones chinos en color beige", "precio": 50.00, "imageUrl": "assets/products/pc01.webp", "idCategoria": 2},
-    {"id": 107, "nombre": "Zapatillas Deportivas", "descripcion": "Zapatillas deportivas para correr", "precio": 80.00, "imageUrl": "assets/products/zd01.webp", "idCategoria": 3},
-    {"id": 108, "nombre": "Botas de Montaña", "descripcion": "Botas resistentes para montaña", "precio": 110.00, "imageUrl": "assets/products/bm01.webp", "idCategoria": 3}
-]

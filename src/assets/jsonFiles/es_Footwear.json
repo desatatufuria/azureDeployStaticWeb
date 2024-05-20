@@ -1,5 +1,0 @@
-[
-    {"id": 107, "nombre": "Zapatillas Deportivas", "descripcion": "Zapatillas deportivas para correr", "precio": 80.00, "imageUrl": "assets/products/zd01.webp", "idCategoria": 3},
-    {"id": 108, "nombre": "Botas de Montaña", "descripcion": "Botas resistentes para montaña", "precio": 110.00, "imageUrl": "assets/products/bm01.webp", "idCategoria": 3},
-    {"id": 109, "nombre": "Sandalias", "descripcion": "Sandalias cómodas para el verano", "precio": 35.00, "imageUrl": "assets/products/sd01.webp", "idCategoria": 3}
-]
