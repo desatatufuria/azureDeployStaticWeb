@@ -1,0 +1,5 @@
+[
+    {"id": 101, "nombre": "Chaqueta de Cuero", "descripcion": "Chaqueta de cuero negra", "precio": 120.00, "imageUrl": "assets/products/cc01.webp", "idCategoria": 1},
+    {"id": 102, "nombre": "Chaqueta Vaquera", "descripcion": "Chaqueta estilo vaquero", "precio": 90.00, "imageUrl": "assets/products/cv01.webp", "idCategoria": 1},
+    {"id": 103, "nombre": "Chaqueta Impermeable", "descripcion": "Chaqueta impermeable azul", "precio": 75.00, "imageUrl": "assets/products/ci01.webp", "idCategoria": 1}
+]

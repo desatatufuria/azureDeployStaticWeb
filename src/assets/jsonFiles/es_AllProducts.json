@@ -1,0 +1,11 @@
+[
+    {"id": 101, "nombre": "Chaqueta de Cuero", "descripcion": "Chaqueta de cuero negra", "precio": 120.00, "imageUrl": "assets/products/cc01.webp", "idCategoria": 1},
+    {"id": 102, "nombre": "Chaqueta Vaquera", "descripcion": "Chaqueta estilo vaquero", "precio": 90.00, "imageUrl": "assets/products/cv01.webp", "idCategoria": 1},
+    {"id": 103, "nombre": "Chaqueta Impermeable", "descripcion": "Chaqueta impermeable azul", "precio": 75.00, "imageUrl": "assets/products/ci01.webp", "idCategoria": 1},    
+    {"id": 104, "nombre": "Pantalones de Mezclilla", "descripcion": "Pantalones de mezclilla clásicos", "precio": 60.00, "imageUrl": "assets/products/pv01.webp", "idCategoria": 2},
+    {"id": 105, "nombre": "Pantalones Chinos", "descripcion": "Pantalones chinos en color beige", "precio": 50.00, "imageUrl": "assets/products/pc01.webp", "idCategoria": 2},
+    {"id": 106, "nombre": "Pantalones Deportivos", "descripcion": "Pantalones deportivos cómodos", "precio": 40.00, "imageUrl": "assets/products/pd01.webp", "idCategoria": 2},
+    {"id": 107, "nombre": "Zapatillas Deportivas", "descripcion": "Zapatillas deportivas para correr", "precio": 80.00, "imageUrl": "assets/products/zd01.webp", "idCategoria": 3},
+    {"id": 108, "nombre": "Botas de Montaña", "descripcion": "Botas resistentes para montaña", "precio": 110.00, "imageUrl": "assets/products/bm01.webp", "idCategoria": 3},
+    {"id": 109, "nombre": "Sandalias", "descripcion": "Sandalias cómodas para el verano", "precio": 35.00, "imageUrl": "assets/products/sd01.webp", "idCategoria": 3}
+]

@@ -1,0 +1,27 @@
+<div class="showcase-container">
+    <h1 class="showcase-title">Bienvenido a Nuestra Tienda Online</h1>
+    <section class="featured-products">
+        
+        <h2>Escaparate</h2>
+        <div>
+            @if(!categories){
+                No hay categorías
+            }@else {
+                <div class="categoryContainer">
+                    <button (click)="selectCategory(0)" class="categoryItem">Todos</button>                        
+                    @for(category of categories; track category.id){
+                        <button (click)="selectCategory(category.id)" class="categoryItem">{{category.nombre}}</button>                        
+                    }
+                    
+                </div>
+            }
+        </div>
+        <div class="products-grid">
+            <!-- Aquí irían los productos destacados, se pueden cargar dinámicamente -->
+            @for(product of products; track product.id){
+                <app-product-item-showcase [product]="product"></app-product-item-showcase>
+            }
+            
+        </div>
+    </section>
+</div>

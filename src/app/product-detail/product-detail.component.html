@@ -1,0 +1,17 @@
+
+
+@if(productId==0 || product==undefined){
+    <h1>No se encuentra el producto indicado</h1>
+}@else {
+    <div class="productContainer">
+        <div >
+            <img class="productImage" [src]="product.imageUrl" alt="Imagen del producto">
+        </div>
+        <div class="productData">
+            <h1>{{product.nombre}}</h1>
+            <h2>{{product.precio | currency:'EUR':'symbol'}}</h2>
+            <p>{{product.descripcion}}</p>
+            <button (click)="addToCart()">Añadir al Carrito</button>
+        </div>
+    </div>
+}
